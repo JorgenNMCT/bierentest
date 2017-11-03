@@ -1,0 +1,771 @@
+{
+  "page": 1,
+  "per_page": 3,
+  "total": 12,
+  "total_pages": 4,
+  "data": 
+
+[
+ {
+   "Naam": "Aardmonnik",
+   "Categorieën": "oud bruin",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "De Struise Brouwers",
+   "Periode": "'50-heden",
+   "Beschrijving": "Dit is een bier ",
+   "GemiddeldeScore": 3.5,
+   "Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png",
+   "Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg",
+   "Gedronken": "True"
+   },   
+ {
+   "Naam": "Aarschotse Bruine",
+   "Categorieën": "bruin",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Stadsbrouwerij Aarschot",
+   "Periode": "?-1969 en 2012-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbay d'Aulne Blonde des Pères 6",
+   "Categorieën": "abdijbier, blond",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Brasserie Val de Sambre",
+   "Periode": "1954-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbay d'Aulne Brune des Pères 6",
+   "Categorieën": "abdijbier, bruin",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Brasserie Val de Sambre",
+   "Periode": "1954-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbay d'Aulne Super Noël 9",
+   "Categorieën": "abdijbier, kerstbier",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Brasserie Val de Sambre",
+   "Periode": "1954-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbay d'Aulne Triple Blonde",
+   "Categorieën": "abdijbier, tripel",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brasserie Val de Sambre",
+   "Periode": "1954-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbay d'Aulne Triple Brune",
+   "Categorieën": "abdijbier, tripel",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brasserie Val de Sambre",
+   "Periode": "1954-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbay d'Aulne Val de Sambre",
+   "Categorieën": "abdijbier, amber",
+   "AlcoholPercentage": "6,4%",
+   "Brouwerij": "Brasserie Val de Sambre",
+   "Periode": "1954-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye de Bonne-Espérance",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "7,8%",
+   "Brouwerij": "Brouwerij Lefebvre",
+   "Periode": "1970-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye de Forest",
+   "Categorieën": "abdijbier, tripel",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brasserie de Silly",
+   "Periode": "2005-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye de la Thure",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "10%",
+   "Brouwerij": "Brasserie Brootcoorens",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye de Saint-Martin Blonde",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Brasserie de Brunehaut",
+   "Periode": "2002-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye de Saint-Martin Brune",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brasserie de Brunehaut",
+   "Periode": "2002-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye de Saint-Martin Cuvée de Noël",
+   "Categorieën": "abdijbier, kerstbier",
+   "AlcoholPercentage": "8,5%",
+   "Brouwerij": "Brasserie de Brunehaut",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye de Saint-Martin Triple",
+   "Categorieën": "abdijbier, tripel",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Brasserie de Brunehaut",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye de Oudkerken",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "6,2%",
+   "Brouwerij": "Brouwerij Lefebvre",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye des Rocs Blonde",
+   "Categorieën": "abdijbier, hoge gisting",
+   "AlcoholPercentage": "7,5%",
+   "Brouwerij": "Brasserie de l'Abbaye des Rocs",
+   "Periode": "1984-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye des Rocs Brune",
+   "Categorieën": "abdijbier bruin",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Brasserie de l'Abbaye des Rocs",
+   "Periode": "1984-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye des Rocs Grand Cru",
+   "Categorieën": "abdijbier ale",
+   "AlcoholPercentage": "9,5%",
+   "Brouwerij": "Brasserie de l'Abbaye des Rocs",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abbaye des Rocs Spéciale Noël",
+   "Categorieën": "abdijbier, kerstbier",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Brasserie de l'Abbaye des Rocs",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abdis Blond",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij Riva",
+   "Periode": "2006-2008"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abdis Bruin",
+   "Categorieën": "bruin",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij Riva",
+   "Periode": "2006-2008"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abdis Tripel",
+   "Categorieën": "tripel",
+   "AlcoholPercentage": "8,2%",
+   "Brouwerij": "Brouwerij Riva",
+   "Periode": "2006-2008"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abdij van Roosenberg Dubbel",
+   "Categorieën": "dubbel",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Brouwerij Van Steenberge",
+   "Periode": "1971-heden (e 1996-heden)"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Abdij van Roosenberg Tripel",
+   "Categorieën": "Tripel",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Brouwerij Van Steenberge",
+   "Periode": "1971-heden (e 1996-heden)"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Achel 5 Blond",
+   "Categorieën": "trappist, blond",
+   "AlcoholPercentage": "5%",
+   "Brouwerij": "Achelse Kluis",
+   "Periode": "1998-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Achel 5 Bruin",
+   "Categorieën": "trappist, bruin",
+   "AlcoholPercentage": "5%",
+   "Brouwerij": "Achelse Kluis",
+   "Periode": "1998-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Achel 7",
+   "Categorieën": "trappist",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Achelse Kluis",
+   "Periode": "1999-2001?"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Achel 6",
+   "Categorieën": "trappist",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Achelse Kluis",
+   "Periode": "1999-2001?"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Achel 8 Blond",
+   "Categorieën": "trappist, blond",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Achelse Kluis",
+   "Periode": "2001-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Achel 8 Bruin",
+   "Categorieën": "trappist, bruin",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Achelse Kluis",
+   "Periode": "2001-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Achel Blond Extra",
+   "Categorieën": "trappist, blond",
+   "AlcoholPercentage": "9,5%",
+   "Brouwerij": "Achelse Kluis",
+   "Periode": "2010-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Achel Bruin Extra",
+   "Categorieën": "trappist, bruin",
+   "AlcoholPercentage": "9,5%",
+   "Brouwerij": "Achelse Kluis",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Adelardus",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Brouwerij Sint-Jozef voor Brouwerij Kerkom",
+   "Periode": "2002-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Adelardus Tripel",
+   "Categorieën": "abdijbier, tripel",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Brouwerij Sint-Jozef voor Brouwerij Kerkom",
+   "Periode": "2005-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Adler",
+   "Categorieën": "pils",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij Haacht",
+   "Periode": "1955-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Adriaen Brouwer",
+   "Categorieën": "hoge gisting, bruin",
+   "AlcoholPercentage": "5%",
+   "Brouwerij": "Brouwerij Roman",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Adriaen Brouwer Dark Gold",
+   "Categorieën": "hoge gisting, bruin",
+   "AlcoholPercentage": "8,5%",
+   "Brouwerij": "Brouwerij Roman",
+   "Periode": "2008-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Affligem 10",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "10%",
+   "Brouwerij": "Affligem Brouwerij (Heineken)",
+   "Periode": "1983-1986"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Affligem Blond",
+   "Categorieën": "abdijbier, blond",
+   "AlcoholPercentage": "6,8%",
+   "Brouwerij": "Affligem Brouwerij (vroeger Brouwerij De Smedt nu deel van Heineken)",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Affligem Dubbel",
+   "Categorieën": "abdijbier, bruin",
+   "AlcoholPercentage": "6,8%",
+   "Brouwerij": "Affligem Brouwerij (Heineken)",
+   "Periode": "1956-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Affligem 950 Cuvee",
+   "Categorieën": "abdijbier, blond",
+   "AlcoholPercentage": "6,8%",
+   "Brouwerij": "Affligem Brouwerij (Heineken)",
+   "Periode": "2012-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Affligem Noël",
+   "Categorieën": "abdijbier, kerstbier",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Affligem Brouwerij (Heineken)",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Affligem Patersvat",
+   "Categorieën": "abdijbier, dubbel gehopt",
+   "AlcoholPercentage": "6,8%",
+   "Brouwerij": "Affligem Brouwerij (Heineken)",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Affligem Rood",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "6,7%",
+   "Brouwerij": "Affligem Brouwerij (Heineken)",
+   "Periode": "?-1994"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Affligem Tripel",
+   "Categorieën": "abdijbier, tripel",
+   "AlcoholPercentage": "8,5%",
+   "Brouwerij": "Affligem Brouwerij (Heineken)",
+   "Periode": "1957-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Agrumbocq",
+   "Categorieën": "hoge gisting, witbier, fruitbier",
+   "AlcoholPercentage": "3,1%",
+   "Brouwerij": "Brasserie du Bocq",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Airborne",
+   "Categorieën": "abdijbier, dubbel",
+   "AlcoholPercentage": "7,5%",
+   "Brouwerij": "Brasserie De Bouillon voor Brasserie Lamborelle [45]",
+   "Periode": "?-?"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Airborne Christmas",
+   "Categorieën": "kerstbier",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brasserie De Bouillon voor Brasserie Lamborelle [45]",
+   "Periode": "?-?"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Akila Pils",
+   "Categorieën": "pils",
+   "AlcoholPercentage": "5%",
+   "Brouwerij": "Brouwerij Louwaege",
+   "Periode": "?-2002"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alfoncine",
+   "Categorieën": "robijnrood",
+   "AlcoholPercentage": "8,5%",
+   "Brouwerij": "Brouwerij Strubbe voor Biofresh Gavere",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alfri",
+   "Categorieën": "NA pils",
+   "AlcoholPercentage": "0,5%",
+   "Brouwerij": "Brouwerij Roman",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alpaïde",
+   "Categorieën": "donkere tripel",
+   "AlcoholPercentage": "10%",
+   "Brouwerij": "Brouwerij Nieuwhuys",
+   "Periode": "2006-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alpaïde Cuvée van de generaal",
+   "Categorieën": "blonde tripel",
+   "AlcoholPercentage": "8,5%",
+   "Brouwerij": "Brouwerij Nieuwhuys",
+   "Periode": "2010-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alpha [46]",
+   "Categorieën": "amber",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Brouwerij Anders! voor Brussels Beer Project",
+   "Periode": "2013"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Altitude 6",
+   "Categorieën": "ale, blond",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Brasserie de l'Abbaye des Rocs",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alvinne blond",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "6,3%",
+   "Brouwerij": "Brouwerij Alvinne",
+   "Periode": "2004-2008"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alvinne Extra Restyled",
+   "Categorieën": "lichtamber",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Brouwerij Alvinne",
+   "Periode": "2005-2010"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alvinne Lex'ke",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "6,3%",
+   "Brouwerij": "Brouwerij Alvinne",
+   "Periode": "2008-?"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alvinne Tripel",
+   "Categorieën": "tripel",
+   "AlcoholPercentage": "8,7%",
+   "Brouwerij": "Brouwerij Alvinne",
+   "Periode": "2004-2010"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Alvino Bourgogne Barrel OA",
+   "Categorieën": "fruitbier, oak aged",
+   "AlcoholPercentage": "5,5%",
+   "Brouwerij": "Brouwerij Alvinne",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Ambetanterik",
+   "Categorieën": "stout",
+   "AlcoholPercentage": "8,7%",
+   "Brouwerij": "Brouwerij Het Alternatief bij Brouwerij Alvinne",
+   "Periode": "2010-?"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Ambiorix",
+   "Categorieën": "roodbruin",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brouwerij Slaghmuylder",
+   "Periode": "1985-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Angélus Blonde",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Brasserie Brootcoorens",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Angélus Brune",
+   "Categorieën": "bruin",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Brasserie Brootcoorens",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Angélus Spéciale Noël",
+   "Categorieën": "kerstbier",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Brasserie Brootcoorens",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Anker Blond",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij Het Anker",
+   "Periode": "?-?"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Anker Boscoulis",
+   "Categorieën": "fruitbier",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij Het Anker",
+   "Periode": "2004-2009"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Anker Herfstbok",
+   "Categorieën": "bruin speciaalbier, bokbier",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij Het Anker",
+   "Periode": "2003-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Anker Pils",
+   "Categorieën": "pils",
+   "AlcoholPercentage": "",
+   "Brouwerij": "Brouwerij Het Anker",
+   "Periode": "?-1960"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Anker Pils",
+   "Categorieën": "pils",
+   "AlcoholPercentage": "5%",
+   "Brouwerij": "Brouwerij Het Anker",
+   "Periode": "1998-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Antiek Blond",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brouwerij Deca",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Antiek Bruin",
+   "Categorieën": "bruin",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brouwerij Deca",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Antiek Super 5 Blond",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "5%",
+   "Brouwerij": "Brouwerij Deca",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Antigoon",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "6,7%",
+   "Brouwerij": "De Proefbrouwerij voor The Musketeers",
+   "Periode": "2014-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Antwerps Blond",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "5%",
+   "Brouwerij": "Huisbrouwerij 't Pakhuis",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Antwerps Bruin",
+   "Categorieën": "bruin",
+   "AlcoholPercentage": "5,8%",
+   "Brouwerij": "Huisbrouwerij 't Pakhuis",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Applebocq",
+   "Categorieën": "fruitbier",
+   "AlcoholPercentage": "3,1%",
+   "Brouwerij": "Brasserie Du Bocq",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Arabier",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "De Dolle Brouwers",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Archiduc",
+   "Categorieën": "",
+   "AlcoholPercentage": "6,2%",
+   "Brouwerij": "Brasserie d'Ecaussinnes",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Arend Blond",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij De Ryck",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Arend Dubbel",
+   "Categorieën": "donkerbruin",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij De Ryck",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Arend Tripel",
+   "Categorieën": "goudblond",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brouwerij De Ryck",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Arend Winter",
+   "Categorieën": "donkeramber",
+   "AlcoholPercentage": "6,3%",
+   "Brouwerij": "Brouwerij De Ryck",
+   "Periode": "1986-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Arendonker Bruin",
+   "Categorieën": "bruin",
+   "AlcoholPercentage": "8,5%",
+   "Brouwerij": "Dorpsbrouwerij Humulus",
+   "Periode": "2011-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Arendonker Tripel",
+   "Categorieën": "goudblond",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Dorpsbrouwerij Humulus",
+   "Periode": "2012-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Armand’4 Herfst",
+   "Categorieën": "oude geuze",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Geuzestekerij 3 Fonteinen",
+   "Periode": "2011-2015?"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Armand’4 Lente",
+   "Categorieën": "oude geuze",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Geuzestekerij 3 Fonteinen",
+   "Periode": "2011-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Armand’4 Winter",
+   "Categorieën": "oude geuze",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Geuzestekerij 3 Fonteinen",
+   "Periode": "2012-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Armand’4 Zomer",
+   "Categorieën": "oude geuze",
+   "AlcoholPercentage": "6%",
+   "Brouwerij": "Geuzestekerij 3 Fonteinen",
+   "Periode": "2011-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Artevelde",
+   "Categorieën": "Speciale Belge",
+   "AlcoholPercentage": "5,7%",
+   "Brouwerij": "Brouwerij Huyghe",
+   "Periode": "1985-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Artevelde Grand Cru",
+   "Categorieën": "roodbruin",
+   "AlcoholPercentage": "7,2%",
+   "Brouwerij": "Brouwerij Huyghe",
+   "Periode": "1987-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Asterie",
+   "Categorieën": "witbier",
+   "AlcoholPercentage": "4,9%",
+   "Brouwerij": "Brasserie d'Ecaussinnes",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Atomium Premier Grand Cru",
+   "Categorieën": "amber",
+   "AlcoholPercentage": "8%",
+   "Brouwerij": "Brouwerij Van Steenberge",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Augrenette",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "4,5%",
+   "Brouwerij": "Brouwerij Augrenoise",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Augrenoise",
+   "Categorieën": "troebel blond",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Brouwerij Augrenoise",
+   "Periode": "2001-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Augrenoise Blonde de Noël",
+   "Categorieën": "troebel blond, kerstbier",
+   "AlcoholPercentage": "10%",
+   "Brouwerij": "Brouwerij Augrenoise",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Augustijn Blond",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "7,5%",
+   "Brouwerij": "Brouwerij Van Steenberge",
+   "Periode": "1978-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Augustijn Donker",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Brouwerij Van Steenberge",
+   "Periode": "1978-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Augustijn Grand Cru",
+   "Categorieën": "abdijbier, tripel",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Brouwerij Van Steenberge",
+   "Periode": "?-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Authentic 621",
+   "Categorieën": "bruin",
+   "AlcoholPercentage": "7,5%",
+   "Brouwerij": "Authentique Brasserie",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Authentic Ambrée",
+   "Categorieën": "amber",
+   "AlcoholPercentage": "5%",
+   "Brouwerij": "Authentique Brasserie",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Authentic Blonde",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "6,5%",
+   "Brouwerij": "Authentique Brasserie",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Authentic Blonde de Noël",
+   "Categorieën": "kerstbier",
+   "AlcoholPercentage": "9%",
+   "Brouwerij": "Authentique Brasserie",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Authentic Triple",
+   "Categorieën": "tripel",
+   "AlcoholPercentage": "9,5%",
+   "Brouwerij": "Authentique Brasserie",
+   "Periode": ""
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "L'Autruche Biere des Gilles",
+   "Categorieën": "blond troebel",
+   "AlcoholPercentage": "7%",
+   "Brouwerij": "Brasserie de Silenrieux",
+   "Periode": "2002-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Avec les Bons Vœux",
+   "Categorieën": "blond",
+   "AlcoholPercentage": "9,5%",
+   "Brouwerij": "Brouwerij Dupont",
+   "Periode": "1980-heden"
+ ,"Beschrijving": "Dit is een bier " ,"GemiddeldeScore": 3.5 ,"Logo": "https://cdn.pixabay.com/photo/2016/09/25/13/07/emoticon-1693696_960_720.png" ,"Fotos": "https://cdn.pixabay.com/photo/2015/07/10/17/53/cheers-839865_960_720.jpg" ,"Gedronken": "True"},
+ {
+   "Naam": "Averbode",
+   "Categorieën": "abdijbier",
+   "AlcoholPercentage": "7,5%",
+   "Brouwerij": "Brouwerij Huyghe",
+   "Periode": "2014-?"
+ }
+]
+}
